@@ -192,4 +192,4 @@ Blynk virtual pins: **V0** temperature, **V1** humidity, **V2** gas.
 
 ## License
 
-Educational / semester project. Use freely.
+Released under the [MIT License](LICENSE) — © 2026 Muhammad Miqdad Ahmad.
