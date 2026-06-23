@@ -1,0 +1,22 @@
+# --- Secrets (never commit real credentials) ---
+include/secrets.h
+
+# --- PlatformIO ---
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# --- VS Code ---
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+
+# --- OS / editor cruft ---
+*.swp
+*~
+Thumbs.db
+.DS_Store
+desktop.ini
